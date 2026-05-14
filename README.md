@@ -5,9 +5,7 @@ This project aims to help an insurance company decide which customers to accept 
 
 ## 🧠 Approach
 - Predict probability of total loss using Machine Learning
-- Models used:
-  - Logistic Regression
-  - Decision Tree
+- Model used:
   - Random Forest
 - Convert predictions into business decisions
 
@@ -19,7 +17,3 @@ lucro = premio_seguro - probabilidade * valor_segurado
 
 ## 🚀 Outcome
 The model enables data-driven decision making focused on profitability rather than accuracy.
-
-## 📂 Project Structure
-- notebooks/ → analysis and modeling
-- data/ → ignored (not uploaded)
